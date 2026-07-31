@@ -1,34 +1,75 @@
 ---
 layout: about
-title: about
+title: Homepage
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+nav: true
+nav_order: 1
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div id="slider" class="clear">
+  <figure><img src="logms2026Coverpage.png" alt="LOGMS 2026" style="max-width:100%; height:auto;">
+    <figcaption>
+      <h2>LOGMS 2026</h2>
+      <p>
+      The LOGMS 2026 will be hosted by the Universitat Pompeu Fabra, from July 7 to 10, 2026, Barcelona, Spain.
+      </p>          
+      <p class="more"><a href="https://eventum.upf.edu/143913/detail/14th-international-conference-on-logistics-and-maritime-systems-logms-2026.html">LOGMS 2026 &raquo;</a></p>
+      <p class="more"><a href="https://eventum.upf.edu/143913/section/62697/14th-international-conference-on-logistics-and-maritime-systems-logms-2026.html">LOGMS CFP &raquo;</a></p>		
+      <p class="more"><a href="https://openreview.net/group?id=LOGMS/2026">Paper Submission for LOGMS 2026 &raquo;</a></p>
+    </figcaption>
+  </figure>
+</div>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<hr>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div id="intro">
+  <section class="clear">
+    <article>
+      <h2>LOGMS</h2>
+      <p>LOGMS provides a platform for establishing international networks among researchers and practitioners in the field of logistics and maritime systems (see related topics below). This web site is expected to provide useful information on events, experts, latest news, materials, and research institutes to researchers and practitioners in this field. We hope that every people in this area can get useful information from this web site and contribute to the improvement of this platform.</p>
+    </article>
+    <article>
+      <figure>
+        <ul class="clear" style="list-style:none; padding:0; display:flex; gap:10px;">
+          <li><a href="#"><img src="images/maritimelogistics1.png" width="130" height="50" alt=""></a></li>
+          <li><a href="#"><img src="images/maritimelogistics2.jpg" width="130" height="130" alt=""></a></li>
+          <li class="last"><a href="#"><img src="images/maritimelogistics3.jpg" width="130" height="130" alt=""></a></li>
+        </ul>
+        <figcaption><a href="#">View Our Image Gallery Here &raquo;</a></figcaption>
+      </figure>
+    </article>
+  </section>
+</div>
+
+<hr>
+
+<div id="homepage" class="last clear" style="display:flex; gap:20px;">
+  <section style="flex:1;">
+    <h2 class="title">Homepage Contact</h2>
+    <article>
+      <p>Yanjie Zhou (y.j.zhou.g@gmail.com; ieyjzhou@zzu.edu.cn)</p>
+      <p>School of Management, Zhengzhou University</p>
+      <p class="more"><a href="contact/">Read More &raquo;</a></p>
+    </article>
+  </section>
+  
+  <section style="flex:1;">
+    <h2 class="title">About LOGMS</h2>
+    <img class="imgl" src="images/LOGMSlogo.png" width="150" height="87" alt="LOGMS Logo">
+    <p>Please contact us via logms.office@gmail.com if you have any questions regarding LOGMS, members, membership, upcoming conference and other related issues.</p>
+    <p class="more"><a href="about_logms/">Read More &raquo;</a></p>
+  </section>
+</div>
+
+<hr>
+
+<footer>
+  <p>Copyright &copy; 2019 - All Rights Reserved - <a href="/">LOGMS</a></p>
+  <address>
+    Engineering Bldg. #207<br>
+    Department of Industrial Engineering,<br>
+    Pusan National University,<br>
+    Jangjeon-dong, Geumjeong-gu, Busan,<br>
+    Republic of Korea.
+  </address>
+</footer>
