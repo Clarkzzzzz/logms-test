@@ -40,14 +40,15 @@ nav_order: 4
       <li>2005, Busan, Korea</li>
       <li>February 22th-23th , 2006, Marriott Hotel / Port of Brisbane, Australia </li>
       <li>September 27th-30th, 2007,Kitakyushu, Japan</li>
-      <li>August 20th-23th, 2008,Shanghai, China</li>	 
+      <li>August 20th-23th, 2008,Shanghai, China</li>
       <li>September 27th-30th, 2009, Holiday Inn Surfers Paradise Gold Coast, Australia</li>
     </ul>
 
     <p>International Symposium on Maritime Logistics and Supply Chain Systems (MLOG)</p>
-    <ul> 
+    <ul>
       <li>Date : April 23th-24th, 2009, National University of Singapore, Singapore</li>
     </ul>
+
   </section>
 </div>
 
