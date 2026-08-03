@@ -6,8 +6,8 @@ nav: true
 nav_order: 5
 ---
 
-<div id="intro">
-  <section class="clear">
+<div>
+  <section>
     <h2>Contact us</h2>
     <ul>
       <li>Name: Yanjie Zhou</li>
@@ -20,21 +20,21 @@ nav_order: 5
 
 <hr>
 
-<div id="homepage" class="last clear" style="display:flex; gap:20px;">
-  <section style="flex:1;">
-    <h2 class="title">Homepage Problem Contact</h2>
+<div style="display: flex; gap: 20px">
+  <section style="flex: 1">
+    <h2>Homepage Problem Contact</h2>
     <article>
       <p>Yanjie Zhou (y.j.zhou.g@gmail.com)</p>
       <p>School of Management Engineering, Zhengzhou University</p>
-      <p class="more"><a href="/contact/">Read More &raquo;</a></p>
+      <p><a href="/contact/">Read More &raquo;</a></p>
     </article>
   </section>
-  
-  <section style="flex:1;">
-    <h2 class="title">About LOGMS</h2>
-    <img class="imgl" src="/images/LOGMSlogo.png" width="150" height="87" alt="LOGMS Logo">
+
+  <section style="flex: 1">
+    <h2>About LOGMS</h2>
+    <img src="/images/LOGMSlogo.png" width="150" height="87" alt="LOGMS Logo">
     <p>Please contact us via logms.office@gmail.com if you have any questions regarding LOGMS, members, membership, upcoming conference and other related issues.</p>
-    <p class="more"><a href="/about_logms/">Read More &raquo;</a></p>
+    <p><a href="/about_logms/">Read More &raquo;</a></p>
   </section>
 </div>
 
@@ -42,7 +42,5 @@ nav_order: 5
 
 <footer>
   <p>Copyright &copy; 2019 - All Rights Reserved - <a href="/">LOGMS </a></p>
-  <address>
-    No.100 Science Avenue, Zhengzhou City, Henan Province P.R.China..
-  </address>
+  <address>No.100 Science Avenue, Zhengzhou City, Henan Province P.R.China..</address>
 </footer>

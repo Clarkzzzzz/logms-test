@@ -8,11 +8,12 @@ nav: false
 <h2>Previous Conferences</h2>
 <br>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>1st LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        1st LOGMS conference
+        <ul>
           <li>Date : September 15th-17th, 2010</li>
           <li>Location : Novotel Ambassador Hotel, Busan, South Korea</li>
           <li>Hosts : Institute of Logistics Innovation and Networking and Korean Institute of Industrial Engineers, South Korea</li>
@@ -22,7 +23,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2010Ceremony.JPG" width="200" alt="">
         <img src="/images/2010IndustrialTour.JPG" width="200" alt="">
@@ -31,11 +32,12 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>2nd LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        2nd LOGMS conference
+        <ul>
           <li>Date : August 22nd-24th, 2012</li>
           <li>Location : University of Bremen, Germany</li>
           <li>Hosts : University of Bremen, Germany</li>
@@ -45,7 +47,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2012content_img_E_02.jpg" width="200" alt="">
         <img src="/images/2012Session.JPG" width="200" alt="">
@@ -54,13 +56,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>3rd LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        3rd LOGMS conference
+        <ul>
           <li>Date : September 12th-14th, 2013</li>
-          <li>Location : Furama Riverfront, Singapore</li> 
+          <li>Location : Furama Riverfront, Singapore</li>
           <li>Hosts : National University of Singapore, Singapore</li>
           <li>Theme : Future for Logistics and Maritime Systems</li>
           <li>Program : <a href="/doc/2013-program_overview.pdf">LOGMS 2013 Program [PDF]</a></li>
@@ -69,7 +72,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2013IndustrialTour.JPG" width="200" alt="">
         <img src="/images/2013Keynote speech.JPG" width="200" alt="">
@@ -78,20 +81,21 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>4th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        4th LOGMS conference
+        <ul>
           <li>Date : August 27th-29th, 2014</li>
-          <li>Location : Erasmus Expo & Conference Center, Rotterdam, The Netherlands</li> 
+          <li>Location : Erasmus Expo & Conference Center, Rotterdam, The Netherlands</li>
           <li>Hosts : Erasmus University Rotterdam, The Netherlands</li>
           <li>Proceedings : <a href="/doc/LOGMS2014_detailed_program.pdf">Proceedings of LOGMS 2014 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2014.org">http://www.logms2014.org</a></li>
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2014Keynote.jpg" width="200" alt="">
         <img src="/images/2014content_img_G_02.jpg" width="200" alt="">
@@ -100,20 +104,21 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>5th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        5th LOGMS conference
+        <ul>
           <li>Date : August 27th-29th, 2015</li>
-          <li>Location : The Hong Kong University of Science and Technology (HKUST)</li> 
+          <li>Location : The Hong Kong University of Science and Technology (HKUST)</li>
           <li>Hosts : The Hong Kong University of Science and Technology (HKUST)</li>
           <li>Proceedings : <a href="/doc/2015Conference-Schedule-and-Presentation-Schedule">Proceedings of LOGMS 2015 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2015.ust.hk">http://www.logms2015.ust.hk</a></li>
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2015Keynote.jpg" width="200" alt="">
         <img src="/images/2015content_img_H_02.jpg" width="200" alt="">
@@ -122,13 +127,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>6th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        6th LOGMS conference
+        <ul>
           <li>Date : June 21th-23th, 2016</li>
-          <li>Location : University of Sydney Business School, Central Business District (CBD) Campus</li> 
+          <li>Location : University of Sydney Business School, Central Business District (CBD) Campus</li>
           <li>Hosts : University of Sydney Business School, Central Business District (CBD) Campus</li>
           <li>Program : <a href="/doc/2016Conference-Programme.pdf">LOGMS 2016 Program [PDF]</a></li>
           <li>Proceedings : <a href="/doc/2016Conference-Booklet-of-Extended-Abstracts.pdf">Proceedings of LOGMS 2016 [PDF]</a></li>
@@ -136,7 +142,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2016Photo_all.jpg" width="400" alt="">
       </figure>
@@ -144,13 +150,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>7th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        7th LOGMS conference
+        <ul>
           <li>Date : August 23th-26th, 2017</li>
-          <li>Location : Bergen, Norway</li> 
+          <li>Location : Bergen, Norway</li>
           <li>Hosts : NHH Norwegian School of Economics</li>
           <li>Program : <a href="/doc/program_LOGMS2017.pdf">LOGMS 2017 Program [PDF]</a></li>
           <li>Proceedings : <a href="/doc/logms2017-programDetail.pdf">Proceedings of LOGMS 2017 [PDF]</a></li>
@@ -158,7 +165,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/LOGMS2017.jpg" width="200" alt="">
         <img src="/images/LOGMS2017IndustrialTour.jpg" width="200" alt="">
@@ -167,13 +174,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>8th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        8th LOGMS conference
+        <ul>
           <li>Date : December 9th-12th 2018</li>
-          <li>Location : Sun Yat-sen Business School (SYSBS),Sun Yat-sen University, Guangzhou, China</li> 
+          <li>Location : Sun Yat-sen Business School (SYSBS),Sun Yat-sen University, Guangzhou, China</li>
           <li>Hosts : Sun Yat-sen Business School (SYSBS), Guangzhou, China</li>
           <li>Sponsors : Sun Yat-sen Business School and National Natural Science Foundation of China</li>
           <li>Program : <a href="/doc/2018Conference_Programme.pdf">LOGMS 2018 Program [PDF]</a></li>
@@ -181,7 +189,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2018logms.png" width="200" alt="">
         <img src="/images/2018logmspnu.jpg" width="200" alt="">
@@ -190,13 +198,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>9th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        9th LOGMS conference
+        <ul>
           <li>Date : August 14th-16th 2019</li>
-          <li>Location : Shaw Foundation Alumni House, Singapore</li> 
+          <li>Location : Shaw Foundation Alumni House, Singapore</li>
           <li>Hosts : National University of Singapore, Singapore</li>
           <li>Sponsors : National University of Singapore</li>
           <li>Theme : Smart Analytics for Maritime and Logistics Systems</li>
@@ -205,7 +214,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2019Banquet1.jpg" width="200" alt="">
         <img src="/images/2019Banquet2.jpg" width="200" alt="">
@@ -214,13 +223,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>10th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        10th LOGMS conference
+        <ul>
           <li>Date : October 29-31, 2021</li>
-          <li>Location : Haiji Hotel, Zhoushan</li> 
+          <li>Location : Haiji Hotel, Zhoushan</li>
           <li>Hosts : Zhejiang University, Zhoushan, China</li>
           <li>Sponsors : Zhejiang University</li>
           <li>Theme : Emerging Opportunities and Challenges of Maritime Logistics – Automation, Digitalization, and Artificial Intelligence</li>
@@ -230,7 +240,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2021Photo3.jpg" width="200" alt="">
         <img src="/images/2021Photo9.jpg" width="200" alt="">
@@ -239,13 +249,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>11th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        11th LOGMS conference
+        <ul>
           <li>Date : September 4-7, 2023</li>
-          <li>Location : Busan Port International Exhibition&Convention Cente</li> 
+          <li>Location : Busan Port International Exhibition&Convention Cente</li>
           <li>Hosts : Korea Maritime Institute and Pusan National University</li>
           <li>Sponsors : Busan Port Authority, Busan Tourism Organization, Korea Shipowners’ Association, POSCO PNU-PIONEER, SMART CHAIN, Gurobi</li>
           <li>Organizer: Research Institute of Intelligent Logistics Big Data</li>
@@ -256,7 +267,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2023Photo1.jpg" width="200" alt="">
         <img src="/images/2023Photo2.jpg" width="200" alt="">
@@ -265,13 +276,14 @@ nav: false
   </section>
 </div>
 
-<div id="intro">
-  <section class="clear">
-    <article class="two_quarter">
-      <li>12th LOGMS conference
-        <ul> 
+<div>
+  <section>
+    <article>
+      <li>
+        12th LOGMS conference
+        <ul>
           <li>Date: 26.-29. August 2024</li>
-          <li>Location: Edmund-Siemers-Allee 1, ESA East, Hamburg, Germany.</li> 
+          <li>Location: Edmund-Siemers-Allee 1, ESA East, Hamburg, Germany.</li>
           <li>Hosts: University of Hamburg</li>
           <li>Theme: Digital Waves in Logistics and Maritime Systems: Sailing Towards Efficiency</li>
           <li>Program : <a href="/doc/2024Program.pdf">LOGMS 2024 Program [PDF]</a></li>
@@ -280,7 +292,7 @@ nav: false
         </ul>
       </li>
     </article>
-    <article class="two_quarter lastbox">
+    <article>
       <figure>
         <img src="/images/2024Photo1.jpeg" width="200" alt="">
         <img src="/images/2024Photo2.jpeg" width="200" alt="">
@@ -291,21 +303,21 @@ nav: false
 
 <hr>
 
-<div id="homepage" class="last clear" style="display:flex; gap:20px;">
-  <section style="flex:1;">
-    <h2 class="title">Homepage Problem Contact</h2>
+<div style="display: flex; gap: 20px">
+  <section style="flex: 1">
+    <h2>Homepage Problem Contact</h2>
     <article>
       <p>Yanjie Zhou (y.j.zhou.g@gmail.com)</p>
       <p>School of Management, Zhengzhou University</p>
-      <p class="more"><a href="/contact/">Read More &raquo;</a></p>
+      <p><a href="/contact/">Read More &raquo;</a></p>
     </article>
   </section>
-  
-  <section style="flex:1;">
-    <h2 class="title">About LOGMS</h2>
-    <img class="imgl" src="/images/LOGMSlogo.png" width="150" height="87" alt="LOGMS Logo">
+
+  <section style="flex: 1">
+    <h2>About LOGMS</h2>
+    <img src="/images/LOGMSlogo.png" width="150" height="87" alt="LOGMS Logo">
     <p>Please contact us via logms.office@gmail.com if you have any questions regarding LOGMS, members, membership, upcoming conference and other related issues.</p>
-    <p class="more"><a href="/about_logms/">Read More &raquo;</a></p>
+    <p><a href="/about_logms/">Read More &raquo;</a></p>
   </section>
 </div>
 
