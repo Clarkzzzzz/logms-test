@@ -18,15 +18,15 @@ nav: false
           <li>Location : Novotel Ambassador Hotel, Busan, South Korea</li>
           <li>Hosts : Institute of Logistics Innovation and Networking and Korean Institute of Industrial Engineers, South Korea</li>
           <li>Sponsors : Yanghyun Foundation and Korean Society for Supply Chain Management, South Korea</li>
-          <li>Program : <a href="/doc/2010Program.pdf">LOGMS 2010 Program [PDF]</a></li>
-          <li>Proceedings : <a href="/doc/2010e-poreedings.pdf">Proceedings of LOGMS 2010 [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2010Program.pdf' | relative_url }}">LOGMS 2010 Program [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/2010e-poreedings.pdf' | relative_url }}">Proceedings of LOGMS 2010 [PDF]</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2010Ceremony.JPG" width="200" alt="">
-        <img src="/images/2010IndustrialTour.JPG" width="200" alt="">
+        <img src="{{ '/images/2010Ceremony.JPG' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2010IndustrialTour.JPG' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -41,16 +41,16 @@ nav: false
           <li>Date : August 22nd-24th, 2012</li>
           <li>Location : University of Bremen, Germany</li>
           <li>Hosts : University of Bremen, Germany</li>
-          <li>Program : <a href="/doc/LOGMS_2012_book_of_abstracts.pdf">LOGMS 2012 Program [PDF]</a></li>
-          <li>Proceedings : <a href="/doc/LOGMS_2012_book_of_abstracts.pdf">Proceedings of LOGMS 2012 [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/LOGMS_2012_book_of_abstracts.pdf' | relative_url }}">LOGMS 2012 Program [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/LOGMS_2012_book_of_abstracts.pdf' | relative_url }}">Proceedings of LOGMS 2012 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2012.uni-bremen.de/index.html">http://www.logms2012.uni-bremen.de/index.html</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2012content_img_E_02.jpg" width="200" alt="">
-        <img src="/images/2012Session.JPG" width="200" alt="">
+        <img src="{{ '/images/2012content_img_E_02.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2012Session.JPG' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -66,16 +66,16 @@ nav: false
           <li>Location : Furama Riverfront, Singapore</li>
           <li>Hosts : National University of Singapore, Singapore</li>
           <li>Theme : Future for Logistics and Maritime Systems</li>
-          <li>Program : <a href="/doc/2013-program_overview.pdf">LOGMS 2013 Program [PDF]</a></li>
-          <li>Proceedings : <a href="/doc/2013SessionSchedules.pdf">Proceedings of LOGMS 2013 [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2013-program_overview.pdf' | relative_url }}">LOGMS 2013 Program [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/2013SessionSchedules.pdf' | relative_url }}">Proceedings of LOGMS 2013 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2013.org">http://www.logms2013.org</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2013IndustrialTour.JPG" width="200" alt="">
-        <img src="/images/2013Keynote speech.JPG" width="200" alt="">
+        <img src="{{ '/images/2013IndustrialTour.JPG' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2013Keynote speech.JPG' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -90,15 +90,15 @@ nav: false
           <li>Date : August 27th-29th, 2014</li>
           <li>Location : Erasmus Expo & Conference Center, Rotterdam, The Netherlands</li>
           <li>Hosts : Erasmus University Rotterdam, The Netherlands</li>
-          <li>Proceedings : <a href="/doc/LOGMS2014_detailed_program.pdf">Proceedings of LOGMS 2014 [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/LOGMS2014_detailed_program.pdf' | relative_url }}">Proceedings of LOGMS 2014 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2014.org">http://www.logms2014.org</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2014Keynote.jpg" width="200" alt="">
-        <img src="/images/2014content_img_G_02.jpg" width="200" alt="">
+        <img src="{{ '/images/2014Keynote.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2014content_img_G_02.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -113,15 +113,15 @@ nav: false
           <li>Date : August 27th-29th, 2015</li>
           <li>Location : The Hong Kong University of Science and Technology (HKUST)</li>
           <li>Hosts : The Hong Kong University of Science and Technology (HKUST)</li>
-          <li>Proceedings : <a href="/doc/2015Conference-Schedule-and-Presentation-Schedule">Proceedings of LOGMS 2015 [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/2015Conference-Schedule-and-Presentation-Schedule' | relative_url }}">Proceedings of LOGMS 2015 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2015.ust.hk">http://www.logms2015.ust.hk</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2015Keynote.jpg" width="200" alt="">
-        <img src="/images/2015content_img_H_02.jpg" width="200" alt="">
+        <img src="{{ '/images/2015Keynote.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2015content_img_H_02.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -136,15 +136,15 @@ nav: false
           <li>Date : June 21th-23th, 2016</li>
           <li>Location : University of Sydney Business School, Central Business District (CBD) Campus</li>
           <li>Hosts : University of Sydney Business School, Central Business District (CBD) Campus</li>
-          <li>Program : <a href="/doc/2016Conference-Programme.pdf">LOGMS 2016 Program [PDF]</a></li>
-          <li>Proceedings : <a href="/doc/2016Conference-Booklet-of-Extended-Abstracts.pdf">Proceedings of LOGMS 2016 [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2016Conference-Programme.pdf' | relative_url }}">LOGMS 2016 Program [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/2016Conference-Booklet-of-Extended-Abstracts.pdf' | relative_url }}">Proceedings of LOGMS 2016 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2016.org">http://www.logms2016.org</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2016Photo_all.jpg" width="400" alt="">
+        <img src="{{ '/images/2016Photo_all.jpg' | relative_url }}" width="400" alt="">
       </figure>
     </article>
   </section>
@@ -159,16 +159,16 @@ nav: false
           <li>Date : August 23th-26th, 2017</li>
           <li>Location : Bergen, Norway</li>
           <li>Hosts : NHH Norwegian School of Economics</li>
-          <li>Program : <a href="/doc/program_LOGMS2017.pdf">LOGMS 2017 Program [PDF]</a></li>
-          <li>Proceedings : <a href="/doc/logms2017-programDetail.pdf">Proceedings of LOGMS 2017 [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/program_LOGMS2017.pdf' | relative_url }}">LOGMS 2017 Program [PDF]</a></li>
+          <li>Proceedings : <a href="{{ '/doc/logms2017-programDetail.pdf' | relative_url }}">Proceedings of LOGMS 2017 [PDF]</a></li>
           <li>Website: <a href="http://www.logms2017.org">http://www.logms2017.org</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/LOGMS2017.jpg" width="200" alt="">
-        <img src="/images/LOGMS2017IndustrialTour.jpg" width="200" alt="">
+        <img src="{{ '/images/LOGMS2017.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/LOGMS2017IndustrialTour.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -184,15 +184,15 @@ nav: false
           <li>Location : Sun Yat-sen Business School (SYSBS),Sun Yat-sen University, Guangzhou, China</li>
           <li>Hosts : Sun Yat-sen Business School (SYSBS), Guangzhou, China</li>
           <li>Sponsors : Sun Yat-sen Business School and National Natural Science Foundation of China</li>
-          <li>Program : <a href="/doc/2018Conference_Programme.pdf">LOGMS 2018 Program [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2018Conference_Programme.pdf' | relative_url }}">LOGMS 2018 Program [PDF]</a></li>
           <li>Website: <a href="http://www.logms2018.com">http://www.logms2018.com</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2018logms.png" width="200" alt="">
-        <img src="/images/2018logmspnu.jpg" width="200" alt="">
+        <img src="{{ '/images/2018logms.png' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2018logmspnu.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -209,15 +209,15 @@ nav: false
           <li>Hosts : National University of Singapore, Singapore</li>
           <li>Sponsors : National University of Singapore</li>
           <li>Theme : Smart Analytics for Maritime and Logistics Systems</li>
-          <li>Program : <a href="/doc/2019logms_brochure.pdf">LOGMS 2019 Program [PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2019logms_brochure.pdf' | relative_url }}">LOGMS 2019 Program [PDF]</a></li>
           <li>Website: <a href="http://www.logms2019.org">http://www.logms2019.org</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2019Banquet1.jpg" width="200" alt="">
-        <img src="/images/2019Banquet2.jpg" width="200" alt="">
+        <img src="{{ '/images/2019Banquet1.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2019Banquet2.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -234,16 +234,16 @@ nav: false
           <li>Hosts : Zhejiang University, Zhoushan, China</li>
           <li>Sponsors : Zhejiang University</li>
           <li>Theme : Emerging Opportunities and Challenges of Maritime Logistics – Automation, Digitalization, and Artificial Intelligence</li>
-          <li>Program : <a href="/doc/2021Program.pdf">LOGMS 2021 Program [PDF]</a></li>
-          <li>Call for paper : <a href="/doc/2021CFP.pdf">LOGMS 2021 Call For Paper[PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2021Program.pdf' | relative_url }}">LOGMS 2021 Program [PDF]</a></li>
+          <li>Call for paper : <a href="{{ '/doc/2021CFP.pdf' | relative_url }}">LOGMS 2021 Call For Paper[PDF]</a></li>
           <li>Website: <a href="https://www.logms2021.com/">https://www.logms2021.com/</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2021Photo3.jpg" width="200" alt="">
-        <img src="/images/2021Photo9.jpg" width="200" alt="">
+        <img src="{{ '/images/2021Photo3.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2021Photo9.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -261,16 +261,16 @@ nav: false
           <li>Sponsors : Busan Port Authority, Busan Tourism Organization, Korea Shipowners’ Association, POSCO PNU-PIONEER, SMART CHAIN, Gurobi</li>
           <li>Organizer: Research Institute of Intelligent Logistics Big Data</li>
           <li>Theme : Data-driven logistics and maritime systems</li>
-          <li>Program : <a href="/doc/2023Program.pdf">LOGMS 2023 Program [PDF]</a></li>
-          <li>Call for paper : <a href="/doc/2023CFP.pdf.pdf">LOGMS 2023 Call For Paper[PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2023Program.pdf' | relative_url }}">LOGMS 2023 Program [PDF]</a></li>
+          <li>Call for paper : <a href="{{ '/doc/2023CFP.pdf.pdf' | relative_url }}">LOGMS 2023 Call For Paper[PDF]</a></li>
           <li>Website: <a href="https://www.logms2023.com/">http://logms2023.com/</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2023Photo1.jpg" width="200" alt="">
-        <img src="/images/2023Photo2.jpg" width="200" alt="">
+        <img src="{{ '/images/2023Photo1.jpg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2023Photo2.jpg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -286,16 +286,16 @@ nav: false
           <li>Location: Edmund-Siemers-Allee 1, ESA East, Hamburg, Germany.</li>
           <li>Hosts: University of Hamburg</li>
           <li>Theme: Digital Waves in Logistics and Maritime Systems: Sailing Towards Efficiency</li>
-          <li>Program : <a href="/doc/2024Program.pdf">LOGMS 2024 Program [PDF]</a></li>
-          <li>Call for paper : <a href="/doc/2024cfp.pdf">LOGMS 2024 Call For Paper[PDF]</a></li>
+          <li>Program : <a href="{{ '/doc/2024Program.pdf' | relative_url }}">LOGMS 2024 Program [PDF]</a></li>
+          <li>Call for paper : <a href="{{ '/doc/2024cfp.pdf' | relative_url }}">LOGMS 2024 Call For Paper[PDF]</a></li>
           <li>Website: <a href="https://www.logms2024.uni-hamburg.de/en.html">https://www.logms2024.uni-hamburg.de/en.html</a></li>
         </ul>
       </li>
     </article>
     <article>
       <figure>
-        <img src="/images/2024Photo1.jpeg" width="200" alt="">
-        <img src="/images/2024Photo2.jpeg" width="200" alt="">
+        <img src="{{ '/images/2024Photo1.jpeg' | relative_url }}" width="200" alt="">
+        <img src="{{ '/images/2024Photo2.jpeg' | relative_url }}" width="200" alt="">
       </figure>
     </article>
   </section>
@@ -309,22 +309,22 @@ nav: false
     <article>
       <p>Yanjie Zhou (y.j.zhou.g@gmail.com)</p>
       <p>School of Management, Zhengzhou University</p>
-      <p><a href="/contact/">Read More &raquo;</a></p>
+      <p><a href="{{ '/contact/' | relative_url }}">Read More &raquo;</a></p>
     </article>
   </section>
 
   <section style="flex: 1">
     <h2>About LOGMS</h2>
-    <img src="/images/logo.gif" width="150" height="87" alt="LOGMS Logo">
+    <img src="{{ '/images/logo.gif' | relative_url }}" width="150" height="87" alt="LOGMS Logo">
     <p>Please contact us via logms.office@gmail.com if you have any questions regarding LOGMS, members, membership, upcoming conference and other related issues.</p>
-    <p><a href="/about_logms/">Read More &raquo;</a></p>
+    <p><a href="{{ '/about_logms/' | relative_url }}">Read More &raquo;</a></p>
   </section>
 </div>
 
 <hr>
 
 <footer>
-  <p>Copyright &copy; 2019 - All Rights Reserved - <a href="/">LOGMS </a></p>
+  <p>Copyright &copy; 2019 - All Rights Reserved - <a href="{{ '/' | relative_url }}">LOGMS </a></p>
   <address>
     Engineering Bldg. #207<br>
     Department of Industrial Engineering,<br>

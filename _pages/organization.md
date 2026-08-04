@@ -41,22 +41,22 @@ nav_order: 2
     <article>
       <p>Yanjie Zhou (ieyjzhou@zzu.edu.cn)</p>
       <p>School of Management, Zhengzhou University</p>
-      <p><a href="/contact/">Read More &raquo;</a></p>
+      <p><a href="{{ '/contact/' | relative_url }}">Read More &raquo;</a></p>
     </article>
   </section>
 
   <section style="flex: 1">
     <h2>About LOGMS</h2>
-    <img src="/images/logo.gif" width="150" height="87" alt="LOGMS Logo">
+    <img src="{{ '/images/logo.gif' | relative_url }}" width="150" height="87" alt="LOGMS Logo">
     <p>Please contact us via logms.office@gmail.com if you have any questions regarding LOGMS, members, membership, upcoming conference and other related issues.</p>
-    <p><a href="/about_logms/">Read More &raquo;</a></p>
+    <p><a href="{{ '/about_logms/' | relative_url }}">Read More &raquo;</a></p>
   </section>
 </div>
 
 <hr>
 
 <footer>
-  <p>Copyright &copy; 2019 - All Rights Reserved - <a href="/">LOGMS </a></p>
+  <p>Copyright &copy; 2019 - All Rights Reserved - <a href="{{ '/' | relative_url }}">LOGMS </a></p>
   <address>
     Engineering Bldg. #207<br>
     Department of Industrial Engineering,<br>
