@@ -32,7 +32,7 @@ nav_order: 5
 
   <section style="flex: 1">
     <h2>About LOGMS</h2>
-    <img src="/images/LOGMSlogo.png" width="150" height="87" alt="LOGMS Logo">
+    <img src="/images/logo.gif" width="150" height="87" alt="LOGMS Logo">
     <p>Please contact us via logms.office@gmail.com if you have any questions regarding LOGMS, members, membership, upcoming conference and other related issues.</p>
     <p><a href="/about_logms/">Read More &raquo;</a></p>
   </section>

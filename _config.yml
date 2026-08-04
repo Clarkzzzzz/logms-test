@@ -14,8 +14,8 @@ footer_text: >
   Copyright &copy; 2019 - All Rights Reserved - LOGMS
 keywords: Logistics and Maritime Systems, LOGMS conference, Conference LOGMS, International Conference on Logistics and Maritime Systems, LOGMS
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: LOGMSlogo.png # the emoji or image used as the favicon
-apple_touch_icon: LOGMSlogo.png
+icon: logo.gif # the emoji or image used as the favicon
+apple_touch_icon: logo.gif
 
 url: "" # the base hostname & protocol for your site
 baseurl: "/logms-test" # the subpath of your site, e.g. /logms-test. Leave blank for root
