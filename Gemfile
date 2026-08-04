@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'jekyll'
+
 if RUBY_VERSION >= '3.1.0'
   gem 'sass-embedded', '>= 1.77.0'
 end
