@@ -5,7 +5,6 @@ gem 'jekyll'
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-sass-converter', '>= 3.0.0'
-    gem 'sass-embedded', '>= 1.77.0'
     gem 'jekyll-3rd-party-libraries'
     gem 'jekyll-archives-v2'
     gem 'jekyll-cache-bust'
