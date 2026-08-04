@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+if RUBY_VERSION >= '3.1.0'
+  gem 'sass-embedded', '>= 1.77.0'
+end
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
