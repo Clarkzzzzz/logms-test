@@ -198,7 +198,7 @@ children:
     </article>
     <article>
       <figure>
-        <img src="/images/2018logms.jpg" width="200" alt="">
+        <img src="/images/2018logms.png" width="200" alt="">
         <img src="/images/2018logmspnu.jpg" width="200" alt="">
       </figure>
     </article>

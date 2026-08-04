@@ -2,7 +2,7 @@
 layout: page
 title: Homepage
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 ---
 

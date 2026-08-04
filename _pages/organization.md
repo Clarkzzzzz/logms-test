@@ -28,7 +28,7 @@ nav_order: 2
     </ul>
     <h2>Secretary</h2>
     <ul>
-      <li><a href="https://ieyjzhou.github.io/">Yanjie Zhou</a>(Zhejiang University, China)</li>
+      <li><a href="https://ieyjzhou.github.io/">Yanjie Zhou</a>(Zhengzhou University, China)</li>
     </ul>
   </section>
 </div>
